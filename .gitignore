@@ -1,2 +1,3 @@
 *.db
-files
+media
+message_log.txt
